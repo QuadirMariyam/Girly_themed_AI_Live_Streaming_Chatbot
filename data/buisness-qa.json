@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "What is GST in India?",
+    "input": "",
+    "output": "GST stands for Goods and Services Tax. It is a unified indirect tax system in India that replaced multiple cascading taxes."
+  },
+  {
+    "instruction": "Explain UPI for global users.",
+    "input": "",
+    "output": "UPI (Unified Payments Interface) is an instant real-time payment system developed in India that allows users to transfer money between banks using mobile apps."
+  },
+  {
+    "instruction": "What is an Indian private limited company?",
+    "input": "",
+    "output": "A private limited company in India is a type of business structure where ownership is privately held and liability is limited to shareholders."
+  }
+]
