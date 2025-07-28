@@ -6,3 +6,4 @@ Run 'npm start' and 'node server.js' simultaneously on frontend and backend spli
 Before that, run the modelfile in system in cmd
 >>ollama create mindbot -f Modelfile
 >>ollama run mymodel
+after applying cd and the folder in which the modelfile is
